@@ -40,7 +40,7 @@ The file parsing, algorithm transformation, and safe file overwrite pipeline gov
 
 $$\text{External File (\texttt{allow\list.txt})} \xrightarrow{\text{\texttt{with open(..., "r")}}} \text{Raw Text String} \xrightarrow{\text{\texttt{.split()}}} \text{IP Address List}$$
   $$\Downarrow$$
-$$\text{Updated File} \xleftarrow{\text{\texttt{with open(..., "w")}}} \text{Joined String ()} \xleftarrow{\text{\texttt{.remove()}  Filter}} \text{Target IP Identification}$$
+$$\text{Updated File} \xleftarrow{\text{\texttt{with open(..., "w")}}} \text{Joined String (newline join)} \xleftarrow{\text{\texttt{.remove()} / Filter}} \text{Target IP Identification}$$
 
 - **Core File Handling & Debugging Taxonomy**:
 
