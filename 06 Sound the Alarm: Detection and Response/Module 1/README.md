@@ -42,7 +42,7 @@ The NIST SP 800-61 Rev. 2 Incident Response Lifecycle and SIEM/SOAR processing w
 
 - **NIST Incident Response Lifecycle Pipeline**:
 
-$$\text{1. Preparation} \longrightarrow \text{2. Detection \& Analysis} \rightleftarrows \text{3. Containment, Eradication \ Recovery} \longrightarrow \text{4. Post-Incident Activity}$$
+$$\text{1. Preparation} \longrightarrow \text{2. Detection \ Analysis} \rightleftarrows \text{3. Containment, Eradication \ Recovery} \longrightarrow \text{4. Post-Incident Activity}$$
 
 - **Detection & Event Orchestration Taxonomy**:
 
