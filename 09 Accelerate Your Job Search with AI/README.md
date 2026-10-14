@@ -1,3 +1,16 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-09%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/39580257db6ec9f03d0abe2ced5f3bcf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
 # 🛡️ Course 9: Accelerate Your Job Search with AI
 
 Welcome to **Course 9** (the optional career acceleration extension course) of the **Google Cybersecurity Professional Certificate**! Designed by experts at Google and informed by top employers, workforce nonprofits, and educational institutions, this course equips you with practical job search strategies and teaches you how to leverage advanced AI tools—including Gemini, Career Dreamer, Gemini Notebook, and Gemini Live—to supercharge your career transition. Whether you are entering the cybersecurity field for the first time or leveling up your professional standing, you will build a comprehensive, personalized job search portfolio (including a resume, career identity statement, and job search plan tracker) to stand out to employers and master every stage of the interview process.
@@ -65,3 +78,22 @@ $$\begin{aligned}
 | Learning Framework | AI & Career Tools | Professional Positioning Stack | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![AI Tools](https://img.shields.io/badge/Tools-Gemini_%7C_Gemini_Live_%7C_Career_Dreamer-orange?style=flat) | ![Career Stack](https://img.shields.io/badge/Stack-ATS_%7C_STAR_Method_%7C_Google_Sheets-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/39580257db6ec9f03d0abe2ced5f3bcf"><img src="../certificates/009 Coursera Accelerate Your Job Search with AI-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/39580257db6ec9f03d0abe2ced5f3bcf) |
+
+
+</div> 
