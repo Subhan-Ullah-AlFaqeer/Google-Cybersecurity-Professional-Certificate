@@ -1,3 +1,16 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-08%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/f7e4ac2cea7306ba5dde437f44644c13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
 # 🛡️ Course 8: Put It to Work: Prepare for Cybersecurity Jobs
 
 Welcome to **Course 8** (the final course!) of the **Google Cybersecurity Professional Certificate**. This capstone course synthesizes your technical training and prepares you to enter the workforce as a job-ready security professional. You will master incident escalation protocols from a SOC analyst perspective, explore security incident classifications, understand the organizational impact of unmanaged breaches, and learn to communicate effectively with diverse stakeholders. Furthermore, you will study professional ethics, discover how to engage with the wider cybersecurity community, and explore the transformative role of generative AI in streamlining security workflows, analyzing event logs, refining code, and optimizing daily operations.
@@ -67,3 +80,22 @@ $$\begin{aligned}
 | Learning Framework | AI & Analysis Tools | Professional & Career Stack | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![AI Tools](https://img.shields.io/badge/Tools-Gemini_Notebook_%7C_Generative_AI-orange?style=flat) | ![Career](https://img.shields.io/badge/Stack-Credly_Badge_%7C_Dashboards_%7C_Networking-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/f7e4ac2cea7306ba5dde437f44644c13"><img src="../certificates/008 Coursera Put It to Work_ Prepare for Cybersecurity Jobs-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/f7e4ac2cea7306ba5dde437f44644c13) |
+
+
+</div> 
