@@ -1,3 +1,17 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-01%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
+
 # 🛡️ Course 1: Foundations of Cybersecurity
 
 Welcome to **Course 1** of the **Google Cybersecurity Professional Certificate**! This foundational course introduces you to the cybersecurity profession, establishing the baseline knowledge required for an entry-level cybersecurity analyst. You will explore primary job responsibilities, fundamental technical and transferable skills, historical threat milestones, the CISSP eight security domains, security frameworks and controls (such as the CIA triad and NIST guidelines), cybersecurity ethics, and the primary tools used across modern Security Operations Centers (SOCs).
@@ -62,3 +76,22 @@ $$\text{Asset Identification} \implies \text{Threat  Risk Assessment} \implies \
 | Learning Framework | Security Controls & Frameworks | Foundational Languages & OS | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![NIST & CIA Triad](https://img.shields.io/badge/Frameworks-NIST_%7C_CIA_Triad-orange?style=flat) | ![Linux SQL Python](https://img.shields.io/badge/Languages-Linux_%7C_SQL_%7C_Python-013243?style=flat&logo=python&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820"><img src="../certificates/001 Foundations of Cybersecurity-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820) |
+
+
+</div> 
