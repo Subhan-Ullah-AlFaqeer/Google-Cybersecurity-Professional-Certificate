@@ -1,3 +1,18 @@
+
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-07%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/c4bc35ce0dc6c5d3012d05359dda2303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
+
 # 🛡️ Course 7: Automate Cybersecurity Tasks with Python
 
 Welcome to **Course 7** of the **Google Cybersecurity Professional Certificate**! This course introduces the Python programming language and equips you with the scripting skills needed to automate repetitive security operations. You will master foundational programming concepts (data types, variables, conditionals, loops), write modular and readable code using user-defined functions and standard library modules, manipulate string and list data structures, construct regular expression (regex) pattern-matching queries, import and parse external text/log files, and apply systematic debugging strategies to troubleshoot automation scripts.
@@ -63,3 +78,22 @@ $$\begin{aligned}   \text{Script Input: } &\text{Raw Log File} \xrightarrow{\tex
 | Learning Framework | Language & Environment | Core Automation Modules | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![Python 3](https://img.shields.io/badge/Language-Python_3-3776AB?style=flat&logo=python&logoColor=white) | ![Libraries](https://img.shields.io/badge/Stack-re_%7C_os_%7C_sys_%7C_File_I%2FO-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/c4bc35ce0dc6c5d3012d05359dda2303"><img src="../certificates/007 Coursera Put It to Work_ Prepare for Cybersecurity Jobs-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/c4bc35ce0dc6c5d3012d05359dda2303) |
+
+
+</div> 
