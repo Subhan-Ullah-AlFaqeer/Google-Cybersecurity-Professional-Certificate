@@ -1,3 +1,15 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-04%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
 # 🛡️ Course 4: Tools of the Trade: Linux and SQL
 
 Welcome to **Course 4** of the **Google Cybersecurity Professional Certificate**! This course equips you with foundational computing and data querying skills essential for a security analyst. You will explore computer operating systems, master the Linux operating system architecture and distributions, navigate files and manage user authorization through the Bash shell, and learn how to use Structured Query Language (SQL) to query, filter, and join relational database tables for security log analysis.
@@ -62,3 +74,22 @@ $$\begin{aligned}   \text{System Operation: } &\text{User / Analyst} \xrightarro
 | Learning Framework | Operating Systems & Linux | Databases & Query Syntax | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![Linux & Bash](https://img.shields.io/badge/OS-Linux_%7C_Kali_%7C_Bash_Shell-orange?style=flat&logo=linux&logoColor=white) | ![SQL & Databases](https://img.shields.io/badge/Data-SQL_%7C_Relational_Databases-013243?style=flat&logo=sqlite&logoColor=white) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820"><img src="../certificates/004 Coursera Tools of the Trade_ Linux and SQL-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/8efcbc5b84425fe4ef0690d157d30820) |
+
+
+</div> 
