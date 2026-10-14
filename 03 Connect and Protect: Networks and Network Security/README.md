@@ -1,3 +1,15 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-03%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/128fee808d71b4c855726b267d616cc8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
 # 🛡️ Course 3: Connect and Protect: Networks and Network Security
 
 Welcome to **Course 3** of the **Google Cybersecurity Professional Certificate**! This course delivers a comprehensive exploration of network architecture, protocols, security operations, intrusion vectors, and system hardening. You will examine network communication models (TCP/IP vs. OSI), analyze common network protocols (DNS, DHCP, HTTP/HTTPS, TLS), implement perimeter defenses (firewalls, VPNs, proxies, DMZs), investigate intrusion tactics like DoS/DDoS attacks and IP spoofing using `tcpdump` log analysis, and execute OS, network, and cloud hardening techniques backed by a NIST Cybersecurity Framework (CSF) incident response portfolio project.
@@ -63,3 +75,23 @@ $$\begin{aligned}   \text{Perimeter Defense: } \text{External Traffic} \xrightar
 | Learning Framework | Inspection & Capture Tools | Network Security & Hardening | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![tcpdump & Wireshark](https://img.shields.io/badge/Tools-tcpdump_%7C_Wireshark-orange?style=flat) | ![Networking & Hardening](https://img.shields.io/badge/Stack-Firewalls_%7C_VPNs_%7C_WPA3_%7C_Hardening-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/128fee808d71b4c855726b267d616cc8"><img src="../certificates/003 Coursera Connect and Protect_ Networks and Network Security-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/128fee808d71b4c855726b267d616cc8) |
+
+
+</div>
