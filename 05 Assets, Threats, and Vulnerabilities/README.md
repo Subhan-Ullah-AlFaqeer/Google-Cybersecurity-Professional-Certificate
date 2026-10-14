@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
 
 </div>
+
 # 🛡️ Course 5: Assets, Threats, and Vulnerabilities
 
 Welcome to **Course 5** of the **Google Cybersecurity Professional Certificate**! This course delivers a comprehensive exploration of organizational asset protection, risk management, cryptography, identity and access management, vulnerability management, and proactive threat modeling. You will examine asset classification models, apply NIST Cybersecurity Framework (CSF) guidelines, evaluate data across its lifecycle states, implement IAM and AAA controls, analyze vulnerabilities using CVE/MITRE standards, adopt an attacker mindset to evaluate entry points, and master structured threat modeling using the PASTA framework.
