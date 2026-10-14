@@ -1,3 +1,15 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-06%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/35b9e30da3a26aa2b2db77829543f496)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
 # 🛡️ Course 6: Sound the Alarm: Detection and Response
 
 Welcome to **Course 6** of the **Google Cybersecurity Professional Certificate**! This course focuses on the core practices of incident detection, network traffic monitoring, forensic investigation, and threat response within a Security Operations Center (SOC). You will master the NIST Incident Response (IR) lifecycle (SP 800-61 Rev. 2), capture and analyze network packet traffic (`tcpdump`, Wireshark), investigate Indicators of Compromise (IoCs) using threat intelligence tools (VirusTotal), maintain chain of custody documentation, write and inspect Intrusion Detection System (IDS) rules (Suricata), and query enterprise SIEM logs using Splunk (SPL) and Google SecOps (Chronicle).
@@ -63,3 +75,22 @@ $$\begin{aligned}   \text{Detection: } \text{Network Capture / PCAP} \xrightarro
 | Learning Framework | Capture & Forensic Tools | SIEM & IDS Stack | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![Tools](https://img.shields.io/badge/Tools-tcpdump_%7C_Wireshark_%7C_VirusTotal-orange?style=flat) | ![SIEM & IDS](https://img.shields.io/badge/Stack-Suricata_%7C_Splunk_SPL_%7C_Chronicle-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/35b9e30da3a26aa2b2db77829543f496"><img src="../certificates/006 Coursera Sound the Alarm_ Detection and Response-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/35b9e30da3a26aa2b2db77829543f496) |
+
+
+</div> 
