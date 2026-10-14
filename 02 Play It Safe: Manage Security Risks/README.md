@@ -1,3 +1,15 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-02%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/8917bad2a2c233ab416be797382871aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
 # 🛡️ Course 2: Play It Safe: Manage Security Risks
 
 Welcome to **Course 2** of the **Google Cybersecurity Professional Certificate**! Building on the foundational concepts introduced in Course 1, this course takes a deeper operational dive into managing security risks, applying industry frameworks, conducting security audits, and responding to incidents. You will explore the CISSP eight security domains, master the NIST Risk Management Framework (RMF) and NIST Cybersecurity Framework (CSF 2.0), implement OWASP security principles, analyze telemetry across Security Information and Event Management (SIEM) dashboards, and execute incident response playbooks to defend organizational assets.
@@ -66,3 +78,23 @@ $$\begin{aligned}
 | Learning Framework | Core Security Frameworks | SIEM & Automation Tools | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![NIST & OWASP](https://img.shields.io/badge/Frameworks-NIST_RMF_%7C_CSF_%7C_OWASP-orange?style=flat) | ![SIEM & SOAR](https://img.shields.io/badge/Tools-Splunk_%7C_Chronicle_%7C_SOAR-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/8917bad2a2c233ab416be797382871aa"><img src="../certificates/002 Coursera Play It Safe_ Manage Security Risks-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/8917bad2a2c233ab416be797382871aa) |
+
+
+</div>
