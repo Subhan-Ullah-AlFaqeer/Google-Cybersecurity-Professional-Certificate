@@ -1,3 +1,17 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-All%20Courses%20Complete-success?style=for-the-badge)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+# Specialization Overview:
+
 # 🛡️ Google Cybersecurity Professional Certificate: Master Index & Curriculum Architecture
 
 Welcome to the **Google Cybersecurity Professional Certificate** master repository! This comprehensive 9-course professional training program is designed and delivered by subject matter experts at Google to equip you with the foundational knowledge, hands-on technical skills, and professional readiness required for high-growth entry-level roles such as Cybersecurity Analyst, Security Operations Center (SOC) Analyst, and Security Specialist.
@@ -81,3 +95,22 @@ $$\begin{aligned}   \text{Foundations \ Risk: } \text{NIST CSF / RMF} \xrightarr
 | **Operating Systems & Networking** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-013243?style=flat) |
 | **Security Operations & SIEM** | ![SIEM](https://img.shields.io/badge/SIEM-Chronicle%2FSplunk-orange?style=flat) ![NIST](https://img.shields.io/badge/NIST-Frameworks-blue?style=flat) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-Defense-red?style=flat) |
 | **AI & Career Acceleration Stack** | ![Gemini](https://img.shields.io/badge/Gemini-AI_%7C_Notebook_%7C_Live-8E75B2?style=flat&logo=google&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white) ![Credly Badge](https://img.shields.io/badge/Credly-Digital_Badges-FF6B00?style=flat) |
+
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/c0711f102ae1f622aff13c4864345591"><img src="certificates/Coursera Google Cybersecurity Professional Certificate-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+
+</div> 
