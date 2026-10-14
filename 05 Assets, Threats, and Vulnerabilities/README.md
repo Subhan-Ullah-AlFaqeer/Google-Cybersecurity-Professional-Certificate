@@ -1,3 +1,14 @@
+<div align="center">
+  
+# 🚀 Google Cybersecurity Professional Certificate
+---
+
+
+[![Google Specialization](https://img.shields.io/badge/Certification-Google%20Cybersecurity-blue?style=for-the-badge&logo=google)](https://coursera.org/share/c0711f102ae1f622aff13c4864345591)
+[![Status](https://img.shields.io/badge/Progress-05%20Course%20Complete-success?style=for-the-badge)](https://coursera.org/share/d34464ee82662136a64d6c6b470bff5a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
 # 🛡️ Course 5: Assets, Threats, and Vulnerabilities
 
 Welcome to **Course 5** of the **Google Cybersecurity Professional Certificate**! This course delivers a comprehensive exploration of organizational asset protection, risk management, cryptography, identity and access management, vulnerability management, and proactive threat modeling. You will examine asset classification models, apply NIST Cybersecurity Framework (CSF) guidelines, evaluate data across its lifecycle states, implement IAM and AAA controls, analyze vulnerabilities using CVE/MITRE standards, adopt an attacker mindset to evaluate entry points, and master structured threat modeling using the PASTA framework.
@@ -66,3 +77,22 @@ $$\begin{aligned}
 | Learning Framework | Frameworks & Standards | Cryptography & Defense Stack | Interactive Platform |
 | :---: | :---: | :---: | :---: |
 | ![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity_Certificate-blue?style=flat&logo=google&logoColor=white) | ![NIST & PASTA](https://img.shields.io/badge/Frameworks-NIST_CSF_%7C_PASTA_%7C_CVE-orange?style=flat) | ![Crypto & IAM](https://img.shields.io/badge/Security-AES_%7C_MFA_%7C_OWASP_Top_10-013243?style=flat) | ![Coursera](https://img.shields.io/badge/Coursera-Interactive_Learning-0056D2?style=flat&logo=coursera&logoColor=white) |
+
+
+---
+## 🚀 Professional Credentials
+
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+
+🎓 **Coursera Professional Certificate Verified** 
+
+<div align="center">
+
+
+| **Official Certificate** |
+| :---: |
+| <a href="https://coursera.org/share/d34464ee82662136a64d6c6b470bff5a"><img src="../certificates/005 Coursera Assets, Threats, and Vulnerabilities-1.png" width="580" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/d34464ee82662136a64d6c6b470bff5a) |
+
+
+</div> 
